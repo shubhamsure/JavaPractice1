@@ -26,6 +26,7 @@ public class longestCommonPrefix {
             result.append(first[i]);
         }
 
+
         return result.toString();
     }
 }

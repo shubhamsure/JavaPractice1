@@ -15,7 +15,8 @@ public class dupCharacters {
                 }
         }
             if (count >1 && sb[i]!='0'){
-                System.out.print(sb[i]);                }
+                System.out.print(sb[i]);                
+            }
         }
     }
 }
